@@ -69,12 +69,12 @@
         "UPDATES_CHANNEL": {
             "description": "تحديثاتــ سورس !!!",
             "required": false,
-            "value": "AMORA "
+            "value": "MusicElkeatib11"
         },
         "GROUP_SUPPORT": {
             "description": "جروبــ الدعــم",
             "required": false,
-            "value": "AMORA"
+            "value":"MusicElkeatib"
         }
     },
     "buildpacks": [
